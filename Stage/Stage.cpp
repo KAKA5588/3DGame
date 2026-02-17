@@ -27,9 +27,11 @@ void Stage::Initialize()
     MV1SetupCollInfo(Stage_handle, -1, 8, 8, 8);
 }
 
-void Stage::Update()
+void Stage::Update(float dt)
 {
+    // ステージは毎フレーム処理がなければ空でOK
 }
+
 
 void Stage::Draw()
 {

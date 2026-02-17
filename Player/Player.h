@@ -1,8 +1,12 @@
+// Player.h
 #pragma once
 #include "../Actor/Actor.h"
+#include <memory>
 
 class Stage;
-class Camera;   // Åö í«â¡
+class Camera;
+class PlayerController;
+class PlayerPhysics;
 
 class Player : public Actor
 {
@@ -14,22 +18,17 @@ public:
     void Update(float dt) override;
     void Draw() override;
 
-    void SetStage(Stage* stage);
-    void SetCamera(Camera* camera);   // Åö í«â¡
+    void SetStage(Stage* s);
+    void SetCamera(Camera* cam);
+
+    bool isGrounded = false;
 
 private:
     Stage* stage = nullptr;
-    Camera* camera = nullptr;         // Åö í«â¡
+    Camera* camera = nullptr;
 
-    int Player_handle = -1;
+    std::unique_ptr<PlayerController> controller;
+    std::unique_ptr<PlayerPhysics> physics;
 
-    float moveSpeed;
-    float radius;
-    bool isGrounded;
-
-    void HandleInput(float dt);
-    void ApplyGravity(float dt);
-
-    // Åö è∞îªíË
-    void CollisionWithFloor(Vec3& nextPos);
+    int modelHandle = -1;
 };

@@ -1,8 +1,11 @@
 #include "DxLib.h"
+#include <vector>
+
 #include "../Stage/Stage.h"
 #include "../Camera/Camera.h"
 #include "../Player/Player.h"
 #include "../Enemy/Enemy.h"
+#include "../GameObject/GameObject.h"
 
 int WINAPI WinMain(
     HINSTANCE hInstance,
@@ -22,40 +25,46 @@ int WINAPI WinMain(
     SetUseZBuffer3D(TRUE);
     SetWriteZBuffer3D(TRUE);
 
+    //  é¿ëÃÇçÏÇÈ
     Stage stage;
-    stage.Initialize();
-
     Player player;
-    player.Initialize();
-
     Enemy enemy;
-    enemy.Initialize();
-
     Camera camera;
-    camera.Initialize();
 
     camera.SetTarget(&player);
     player.SetCamera(&camera);
     player.SetStage(&stage);
 
+    std::vector<GameObject*> objects =
+    {
+        &stage,
+        &player,
+        &enemy,
+        &camera
+    };
+
+    // Initialize
+    for (auto obj : objects)
+    {
+        obj->Initialize();
+    }
+
     while (ProcessMessage() == 0 && CheckHitKey(KEY_INPUT_ESCAPE) == 0)
     {
         ClearDrawScreen();
-
         float dt = 1.0f / 60.0f;
 
-        player.Update(dt);
-        camera.Update(dt);
+        for (auto obj : objects)
+        {
+            obj->Update(dt);
+        }
+
         camera.Apply();
 
-        enemy.Update(dt);
-        enemy.Draw();
-
-
-        player.Draw();
-
-        stage.Update();
-        stage.Draw();
+        for (auto obj : objects)
+        {
+            obj->Draw();
+        }
 
         ScreenFlip();
     }

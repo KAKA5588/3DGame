@@ -1,15 +1,15 @@
-#pragma once
-class Stage
+#include "../GameObject/GameObject.h"
+
+class Stage : public GameObject
 {
 public:
     Stage();
     ~Stage();
 
-    void Initialize();
-    void Update();
-    void Draw();
+    void Initialize() override;
+    void Update(float dt) override; // ← これだけでOK
+    void Draw() override;
 
-    // ★ プレイヤーから取得するために必要
     int GetModelHandle() const { return Stage_handle; }
 
 private:

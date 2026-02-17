@@ -1,26 +1,17 @@
 #pragma once
 #include <memory>
+#include "../GameObject/GameObject.h"
 #include "../Vec3/Vec3.h"
 
-class Actor
+class Actor : public GameObject
 {
 public:
-    Vec3 position;
-    Vec3 rotation;   // pitch, yaw, roll
+    Vec3 position{};
+    Vec3 rotation{};
     Vec3 scale{ 1,1,1 };
-    Vec3 velocity;
+    Vec3 velocity{};
 
     bool isAlive = true;
 
-    virtual ~Actor() {}
-
-    virtual void Initialize() {}
-    virtual void Update(float deltaTime) = 0;
-    virtual void Draw() = 0;
-
-    // ˆÊ’uŽæ“¾
-    virtual Vec3 GetPosition() const
-    {
-        return position;
-    }
+    virtual ~Actor() = default;
 };

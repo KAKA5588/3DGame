@@ -1,15 +1,16 @@
 #pragma once
 #include "DxLib.h"
+#include "../Actor/Actor.h"
 #include "EnemyStateMachine.h"
+#include "../GameObject/GameObject.h"
 
-class Enemy
+class Enemy : public Actor
 {
 public:
     Enemy();
-
-    void Initialize();
-    void Update(float dt);
-    void Draw();
+    void Initialize() override;
+    void Update(float dt) override;
+    void Draw() override;
 
     VECTOR GetPosition() const { return position; }
 

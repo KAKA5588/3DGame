@@ -1,16 +1,18 @@
 #pragma once
 #include "DxLib.h"
 #include "../Actor/Actor.h"
+#include "../GameObject/GameObject.h"
 
-class Camera
+class Camera : public GameObject
 {
 public:
     Camera();
 
-    void SetTarget(Actor* actor);
-    void Initialize();
-    void Update(float dt);
+    void Initialize() override;
+    void Update(float dt) override;
     void Apply();
+
+    void SetTarget(Actor* target);
 
     float GetYaw() const { return yaw; }
 
