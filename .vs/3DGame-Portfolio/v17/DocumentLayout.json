@@ -1,0 +1,548 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Player\\PlayerPhysics.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|solutionrelative:Player\\PlayerPhysics.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Enemy\\EnemyState_Idle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|solutionrelative:Enemy\\EnemyState_Idle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Enemy\\EnemyState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|solutionrelative:Enemy\\EnemyState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Enemy\\EnemyStateMachine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|solutionrelative:Enemy\\EnemyStateMachine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\MouseInput\\MouseInput.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|solutionrelative:MouseInput\\MouseInput.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Enemy\\EnemyState_Idle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|solutionrelative:Enemy\\EnemyState_Idle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Main\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|solutionrelative:Main\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Vec3\\Vec3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|solutionrelative:Vec3\\Vec3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\MouseInput\\MouseInput.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|solutionrelative:MouseInput\\MouseInput.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Enemy\\EnemyStateMachine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|solutionrelative:Enemy\\EnemyStateMachine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Enemy\\EnemyPerception.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|solutionrelative:Enemy\\EnemyPerception.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Player\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|solutionrelative:Player\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\GameObject\\GameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|solutionrelative:GameObject\\GameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Player\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|solutionrelative:Player\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Camera\\Camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|solutionrelative:Camera\\Camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Stage\\Stage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|solutionrelative:Stage\\Stage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Stage\\Stage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|solutionrelative:Stage\\Stage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Enemy\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|solutionrelative:Enemy\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Enemy\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|solutionrelative:Enemy\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Enemy\\EnemyMovement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|solutionrelative:Enemy\\EnemyMovement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Camera\\Camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|solutionrelative:Camera\\Camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Actor\\Actor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|solutionrelative:Actor\\Actor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Player\\PlayerController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|solutionrelative:Player\\PlayerController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ki582\\Downloads\\SwordBout\\SwordBout\\Game\\Chara.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Enemy\\EnemyPerception.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|solutionrelative:Enemy\\EnemyPerception.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ki582\\Downloads\\SwordBout\\SwordBout\\Game\\Camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Player\\PlayerPhysics.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|solutionrelative:Player\\PlayerPhysics.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Player\\PlayerController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|solutionrelative:Player\\PlayerController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Enemy\\EnemyMovement.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1EEEF5E2-5314-49EE-A84D-E7F756753835}|3DGame-Portfolio.vcxproj|solutionrelative:Enemy\\EnemyMovement.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ki582\\Downloads\\SwordBout\\SwordBout\\Game\\Camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 29,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Camera.cpp",
+              "DocumentMoniker": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Camera\\Camera.cpp",
+              "RelativeDocumentMoniker": "Camera\\Camera.cpp",
+              "ToolTip": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Camera\\Camera.cpp",
+              "RelativeToolTip": "Camera\\Camera.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-26T06:15:24.159Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Camera.h",
+              "DocumentMoniker": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Camera\\Camera.h",
+              "RelativeDocumentMoniker": "Camera\\Camera.h",
+              "ToolTip": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Camera\\Camera.h",
+              "RelativeToolTip": "Camera\\Camera.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-26T06:15:24.866Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Player\\Player.h",
+              "RelativeDocumentMoniker": "Player\\Player.h",
+              "ToolTip": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Player\\Player.h",
+              "RelativeToolTip": "Player\\Player.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-26T06:15:41.615Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Player\\Player.cpp",
+              "RelativeDocumentMoniker": "Player\\Player.cpp",
+              "ToolTip": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Player\\Player.cpp",
+              "RelativeToolTip": "Player\\Player.cpp",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-26T06:15:39.622Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemyStateMachine.h",
+              "DocumentMoniker": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Enemy\\EnemyStateMachine.h",
+              "RelativeDocumentMoniker": "Enemy\\EnemyStateMachine.h",
+              "ToolTip": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Enemy\\EnemyStateMachine.h",
+              "RelativeToolTip": "Enemy\\EnemyStateMachine.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-16T23:17:35.663Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Enemy.cpp",
+              "DocumentMoniker": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Enemy\\Enemy.cpp",
+              "RelativeDocumentMoniker": "Enemy\\Enemy.cpp",
+              "ToolTip": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Enemy\\Enemy.cpp",
+              "RelativeToolTip": "Enemy\\Enemy.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-16T23:09:51.996Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Enemy.h",
+              "DocumentMoniker": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Enemy\\Enemy.h",
+              "RelativeDocumentMoniker": "Enemy\\Enemy.h",
+              "ToolTip": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Enemy\\Enemy.h",
+              "RelativeToolTip": "Enemy\\Enemy.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-16T23:14:29.977Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemyState.h",
+              "DocumentMoniker": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Enemy\\EnemyState.h",
+              "RelativeDocumentMoniker": "Enemy\\EnemyState.h",
+              "ToolTip": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Enemy\\EnemyState.h",
+              "RelativeToolTip": "Enemy\\EnemyState.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-16T23:17:20.828Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemyState_Idle.cpp",
+              "DocumentMoniker": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Enemy\\EnemyState_Idle.cpp",
+              "RelativeDocumentMoniker": "Enemy\\EnemyState_Idle.cpp",
+              "ToolTip": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Enemy\\EnemyState_Idle.cpp",
+              "RelativeToolTip": "Enemy\\EnemyState_Idle.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-16T23:43:04.778Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnemyState_Idle.h",
+              "DocumentMoniker": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Enemy\\EnemyState_Idle.h",
+              "RelativeDocumentMoniker": "Enemy\\EnemyState_Idle.h",
+              "ToolTip": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Enemy\\EnemyState_Idle.h",
+              "RelativeToolTip": "Enemy\\EnemyState_Idle.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-16T23:43:12.563Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Vec3.h",
+              "DocumentMoniker": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Vec3\\Vec3.h",
+              "RelativeDocumentMoniker": "Vec3\\Vec3.h",
+              "ToolTip": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Vec3\\Vec3.h",
+              "RelativeToolTip": "Vec3\\Vec3.h",
+              "ViewState": "AQIAACMAAAAAAAAAAAAQwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-26T06:16:44.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Main\\Main.cpp",
+              "RelativeDocumentMoniker": "Main\\Main.cpp",
+              "ToolTip": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Main\\Main.cpp",
+              "RelativeToolTip": "Main\\Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-26T06:14:24.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Stage.cpp",
+              "DocumentMoniker": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Stage\\Stage.cpp",
+              "RelativeDocumentMoniker": "Stage\\Stage.cpp",
+              "ToolTip": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Stage\\Stage.cpp",
+              "RelativeToolTip": "Stage\\Stage.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-12T18:16:01.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Stage.h",
+              "DocumentMoniker": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Stage\\Stage.h",
+              "RelativeDocumentMoniker": "Stage\\Stage.h",
+              "ToolTip": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Stage\\Stage.h",
+              "RelativeToolTip": "Stage\\Stage.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-27T08:25:39.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Actor.h",
+              "DocumentMoniker": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Actor\\Actor.h",
+              "RelativeDocumentMoniker": "Actor\\Actor.h",
+              "ToolTip": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Actor\\Actor.h",
+              "RelativeToolTip": "Actor\\Actor.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-27T08:47:41.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Camera.cpp",
+              "DocumentMoniker": "C:\\Users\\ki582\\Downloads\\SwordBout\\SwordBout\\Game\\Camera.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\SwordBout\\SwordBout\\Game\\Camera.cpp",
+              "ToolTip": "C:\\Users\\ki582\\Downloads\\SwordBout\\SwordBout\\Game\\Camera.cpp",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\SwordBout\\SwordBout\\Game\\Camera.cpp",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAAACYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-27T09:09:54.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Camera.h",
+              "DocumentMoniker": "C:\\Users\\ki582\\Downloads\\SwordBout\\SwordBout\\Game\\Camera.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\SwordBout\\SwordBout\\Game\\Camera.h",
+              "ToolTip": "C:\\Users\\ki582\\Downloads\\SwordBout\\SwordBout\\Game\\Camera.h",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\SwordBout\\SwordBout\\Game\\Camera.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-27T09:10:00.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Chara.cpp",
+              "DocumentMoniker": "C:\\Users\\ki582\\Downloads\\SwordBout\\SwordBout\\Game\\Chara.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\SwordBout\\SwordBout\\Game\\Chara.cpp",
+              "ToolTip": "C:\\Users\\ki582\\Downloads\\SwordBout\\SwordBout\\Game\\Chara.cpp",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\SwordBout\\SwordBout\\Game\\Chara.cpp",
+              "ViewState": "AQIAAOEAAAAAAAAAAAAAAMQCAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-27T09:37:00.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MouseInput.h",
+              "DocumentMoniker": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\MouseInput\\MouseInput.h",
+              "RelativeDocumentMoniker": "MouseInput\\MouseInput.h",
+              "ToolTip": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\MouseInput\\MouseInput.h",
+              "RelativeToolTip": "MouseInput\\MouseInput.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-27T11:54:09.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MouseInput.cpp",
+              "DocumentMoniker": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\MouseInput\\MouseInput.cpp",
+              "RelativeDocumentMoniker": "MouseInput\\MouseInput.cpp",
+              "ToolTip": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\MouseInput\\MouseInput.cpp",
+              "RelativeToolTip": "MouseInput\\MouseInput.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-27T11:54:14.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnemyStateMachine.cpp",
+              "DocumentMoniker": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Enemy\\EnemyStateMachine.cpp",
+              "RelativeDocumentMoniker": "Enemy\\EnemyStateMachine.cpp",
+              "ToolTip": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Enemy\\EnemyStateMachine.cpp",
+              "RelativeToolTip": "Enemy\\EnemyStateMachine.cpp",
+              "ViewState": "AQIAACsAAAAAAAAAAAAIwDwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-16T23:17:47.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EnemyPerception.h",
+              "DocumentMoniker": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Enemy\\EnemyPerception.h",
+              "RelativeDocumentMoniker": "Enemy\\EnemyPerception.h",
+              "ToolTip": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Enemy\\EnemyPerception.h",
+              "RelativeToolTip": "Enemy\\EnemyPerception.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-16T23:18:15.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EnemyPerception.cpp",
+              "DocumentMoniker": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Enemy\\EnemyPerception.cpp",
+              "RelativeDocumentMoniker": "Enemy\\EnemyPerception.cpp",
+              "ToolTip": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Enemy\\EnemyPerception.cpp",
+              "RelativeToolTip": "Enemy\\EnemyPerception.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-16T23:18:31.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EnemyMovement.h",
+              "DocumentMoniker": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Enemy\\EnemyMovement.h",
+              "RelativeDocumentMoniker": "Enemy\\EnemyMovement.h",
+              "ToolTip": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Enemy\\EnemyMovement.h",
+              "RelativeToolTip": "Enemy\\EnemyMovement.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-16T23:19:20.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EnemyMovement.cpp",
+              "DocumentMoniker": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Enemy\\EnemyMovement.cpp",
+              "RelativeDocumentMoniker": "Enemy\\EnemyMovement.cpp",
+              "ToolTip": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Enemy\\EnemyMovement.cpp",
+              "RelativeToolTip": "Enemy\\EnemyMovement.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-16T23:19:30.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PlayerController.h",
+              "DocumentMoniker": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Player\\PlayerController.h",
+              "RelativeDocumentMoniker": "Player\\PlayerController.h",
+              "ToolTip": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Player\\PlayerController.h",
+              "RelativeToolTip": "Player\\PlayerController.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-17T00:58:20.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PlayerController.cpp",
+              "DocumentMoniker": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Player\\PlayerController.cpp",
+              "RelativeDocumentMoniker": "Player\\PlayerController.cpp",
+              "ToolTip": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Player\\PlayerController.cpp",
+              "RelativeToolTip": "Player\\PlayerController.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-17T00:58:33.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PlayerPhysics.h",
+              "DocumentMoniker": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Player\\PlayerPhysics.h",
+              "RelativeDocumentMoniker": "Player\\PlayerPhysics.h",
+              "ToolTip": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Player\\PlayerPhysics.h",
+              "RelativeToolTip": "Player\\PlayerPhysics.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-17T00:58:53.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerPhysics.cpp",
+              "DocumentMoniker": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Player\\PlayerPhysics.cpp",
+              "RelativeDocumentMoniker": "Player\\PlayerPhysics.cpp",
+              "ToolTip": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\Player\\PlayerPhysics.cpp",
+              "RelativeToolTip": "Player\\PlayerPhysics.cpp",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAEwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-17T00:59:10.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GameObject.h",
+              "DocumentMoniker": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\GameObject\\GameObject.h",
+              "RelativeDocumentMoniker": "GameObject\\GameObject.h",
+              "ToolTip": "C:\\Users\\ki582\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\3DGame-Portfolio\\GameObject\\GameObject.h",
+              "RelativeToolTip": "GameObject\\GameObject.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-17T01:28:00.55Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d3750d8a-574b-4fb3-b7e2-aa8af40e8231}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
